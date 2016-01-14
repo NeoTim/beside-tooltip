@@ -1,0 +1,17 @@
+{
+  "name": "beside-tooltip",
+  "version": "0.0.1",
+  "homepage": "https://github.com/forsigner/beside-tooltip",
+  "authors": [
+    "forsigner <forsigner@gmail.com>"
+  ],
+  "description": "tooltip",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
